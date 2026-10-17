@@ -67,4 +67,4 @@ A basic stylesheet is linked to control page defaults, logo size, and navigation
 ---
 
 **Series Navigation**  
-← [Lab 9 – Cart & Contact Page](https://github.com/abhishekjambhale18-creator/BiteBox-Cart-and-Contact-Page) | Next Lab Coming Soon →
+← [Lab 9 – Website-Refactoring-and-Professional-Layout-Planning-Part-2](https://github.com/abhishekjambhale18-creator/Website-Refactoring-and-Professional-Layout-Planning-Part-2) | Next Lab Coming Soon →
